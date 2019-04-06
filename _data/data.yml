@@ -28,10 +28,10 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Telugu
-        level: Native
+      - idiom: Hindi
+        level: Professional
 
-      - idiom: Hindhi
+      - idiom: Telugu
         level: Native
 
     interests:
@@ -47,18 +47,17 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Hello, I am Manideep Kolla, a pre-final year undergraduate student from Indian Institute of Technology, Guwahati with major in Electronics and Communication Engineering but my major interest has been in the field of Deep Learning and Artificial Intelligence during my Undergraduate studies. I have been a part of Dr. Prithwijit Guha's research group and have also worked in two startups named [UncannyVision](http://www.uncannyvision.com/) and [Chainrule.ai](Chainrule.ai) till date during my sophomore year in various applications of Deep Learning, particularly computer vision in Security surveillance and Medicine. I see AI as the current technological revolution and I want to mark my impact on this revolution. I am also the Convenor of Entrepreneurial Development Cell, IIT Guwahati in which I have been a key member since past two years. With an entrepreneurial mind, I always seek solutions for problems I observe. I just want everyone to have a fair life and I am going to do my best to bring the equality which our world lacks.
+      
+      I use my free time to grow my network through Linkedin or speaking to people personally and I am not a very frequent book reader, but I have read and love to read quite a few non-fiction books like Sapiens, Factfulness, Origin Story, Wings of Fire. Occasionally I also write stories. 
+      
+      Apart from these, I am a movie buff and particularly I love suspense mystery movies because I love to try and guess the villain of the story. I am a crazy cricket fan and I have played professional cricket for Cricket Club, IIT Guwahati. I also enjoy cooking and I cook every time I go home. I will always be up to date on the topics I care about.
+      
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech in Electronics and Communication Engineering
+      university: Indian Institute of Technology, Guwahati
+      time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,18 +68,6 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Lead Developer
