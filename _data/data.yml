@@ -70,48 +70,26 @@ education:
 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Deep Learning Intern
+      time: May 2018 - July 2018
+      company: Uncanny Vision, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Uncanny Vision is a startup based in Bangalore funded by companies like Renesas, Qualcomm. Major work done here is on smart surveillance i.e, the application of Deep Learning to Security Surveillance systems and has many patents in the area. Uncanny Vision has contracts with Japan Government, Renesas, Bosch, with Bangalore metro and many other companies. As a summer intern,
 
-          - Bullet point
-          - Bullet point
+          - Kickstarted the research on Person Re-Identification at the company for smart security surveillance. 
+          - In particular, I worked on the problem of Person or Object Re-Identification using pose estimation. In just 2 months, I have built a Person Re-Id algorithm which is ready to incorporate on the security camera module.
+          - Built a deep network with a Siamese like architecture which uses pose estimation along with a special similarity estimation layer which shot the accuracy near to the state of the art at 85% on a very challenging real-life data from a partner company.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Deep Learning Intern
+      time: March 2018 - May 2018
+      company: Chainrule.ai, San Francisco Bay area
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Chainrule.ai is an early stage startup based in Silicon Valley, San Francisco Bay Area. The main goal of the company is to create a user end applications suit for doctors to help them detect various types of cancers in different parts of the human body effectively in less amount of time. Work is being done on detection of different types of cancers like skin cancer, liver cancer, lung cancer, breast cancer, intestine cancers, etc. As an intern,
 
-          - Bullet point
-          - Bullet point
+          - Worked on building deep learning algorithms for segmentation and classification of different types of skin cancers.
+          - After experimenting with different types of convolution-deconvolution networks like U-net. I have achieved Jaccard index of about 0.7 using a U-net like model in segmentation. 
+          - I have used an ensemble of multiple ResNets and have achieved an accuracy of about 92% in classification.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
